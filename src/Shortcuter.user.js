@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Dodaje pasek ze skrótami do ulubionych tagów (te można dodawać z poziomu strony tagu).
-// @author       M4lutki
+// @author       Kamil Spisak
 // @match        http://www.wykop.pl/*
 // @run-at       document-end
 // @grant        GM_getValue
